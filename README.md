@@ -1,1 +1,2 @@
-# Hoteeel
+# HOTEL-TEAMS
+Proyecto del hotel
